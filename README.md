@@ -10,7 +10,7 @@
   ### 新手指引
 
 
-## 软件使用许可协议
+## 软件使用许可协议[https://github.com/ploverbay/vein/blob/master/This%20Kindling%20Software%20License%20Agreement.md]
 
 
 ## 商业合作
