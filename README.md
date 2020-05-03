@@ -3,6 +3,7 @@
   最新版本：2.0.x
 
 ## 使用帮助
+
   ### 安装
 
   ### 下载
@@ -10,7 +11,8 @@
   ### 新手指引
 
 
-## [软件使用许可协议](https://github.com/ploverbay/vein/blob/master/This%20Kindling%20Software%20License%20Agreement.md)
+## 软件使用许可协议
+  请移步[一览软件使用许可协议](https://github.com/ploverbay/vein/blob/master/This%20Kindling%20Software%20License%20Agreement.md)，并仔细阅读。
 
 
 ## 商业合作
